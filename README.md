@@ -4,7 +4,7 @@
  
 <p align="left"> 
 I'm a programming student in Brazil.<br>
-Also almost an architect! I'm passionate about urbanism, technology and solving problems.<br><br>
+Also almost an architect! I'm passionate about urban planner, technology and solving problems.<br><br>
 Currently studying Java and Kotlin at Let's Code.
 </p> 
   <h2></h2>

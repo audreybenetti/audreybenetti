@@ -3,7 +3,7 @@
 ### Hi there, I'm Audrey!
  
 <p align="left"> 
-I'm a programming student in Brazil.<br>
+I'm a brazilian programming student.<br>
 Also almost an architect! I'm passionate about urban planning, technology and solving problems.<br><br>
 Currently studying Java and Kotlin at Let's Code.
 </p> 

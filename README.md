@@ -3,9 +3,10 @@
 ### Hi there, I'm Audrey!
  
 <p align="left"> 
-I'm a brazilian programming student.<br>
-Also almost an architect! I'm passionate about urban planning, technology and solving problems.<br><br>
-Currently studying Java and Kotlin at Let's Code.
+I'm a brazilian programming student and also an architect.<br>
+Passionate about urban planning, people management, technology and solving problems.<br>
+Changeful, curious and a fast learner, I'm always looking forward to improve as a person and a professional.<br><br>
+Currently studying Java at Federal University of Technology from Paraná.
 </p> 
   <h2></h2>
  <div>

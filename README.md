@@ -3,10 +3,8 @@
 ### Hi there, I'm Audrey!
  
 <p align="left"> 
-I'm a brazilian programming student and also an architect.<br>
-Passionate about urban planning, people management, technology and solving problems.<br>
-Changeful, curious and a fast learner, I'm always looking forward to improve as a person and a professional.<br><br>
-Currently studying Java at Federal University of Technology from Paraná.
+I'm curious, a fast learner and always looking forward to improve as a person and a professional. For me there is nothing more interesting than the possibility of constant learning, that's why I enjoy working with technology so much.
+I must confess that I'm passionate about back-end and android programming, especially with Java. Coding for me is like seeing the gears of the internet and I love discovering new ways to solve problems.
 </p> 
   <h2></h2>
  <div>

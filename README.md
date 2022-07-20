@@ -3,7 +3,7 @@
 ### Hi there, I'm Audrey!
  
 <p align="left"> 
-I'm curious, a fast learner and always looking forward to improve as a person and a professional. For me there is nothing more interesting than the possibility of constant learning, that's why I enjoy working with technology so much.
+I'm curious, a fast learner and always looking forward to improve as a person and a professional. For me there is nothing more interesting than the possibility of constant learning, that's why I enjoy working with technology so much.<br>
 I must confess that I'm passionate about back-end and android programming, especially with Java. Coding for me is like seeing the gears of the internet and I love discovering new ways to solve problems.
 </p> 
   <h2></h2>
